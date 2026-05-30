@@ -1,0 +1,23 @@
+# virtual environment
+venv/
+.env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# chroma db
+chroma_db/
+chroma.sqlite3/
+
+# logs
+*.log
+
+# OS files
+.DS_Store
+
+# streamlit cache
+.streamlit/
+
+# vscode
+.vscode/
